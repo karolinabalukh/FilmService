@@ -34,7 +34,7 @@
 ]
 ```
 
-![](images\tests.png)
+![alt text](images/tests.png)
 
 
 
@@ -55,7 +55,7 @@
   "directorId": 1
 }
 ```
-![](images\add_film.png)
+![](images/add_film.png)
 
 
 
@@ -88,7 +88,7 @@
   }
 ]
 ```
-![](images\upload.png)
+![](images/upload.png)
 
 ## 4.Отримання списку з пагінацією (_list)
 Отримання відфільтрованих даних з пагінацією.
@@ -104,7 +104,7 @@
   "directorId": 1
 }
 ```
-![](images\list.png)
+![](images/list.png)
 
 
 
@@ -120,6 +120,6 @@
   "directorId": 1
 }
 ```
-![](images\report.png)
+![](images/report.png)
 А також можливість завантажити файл через "Save response", як [films_report.csv](src%2Fmain%2Fresources%2Ffilms_report.csv)
-![](images\excel_report.png)
+![](images/excel_report.png)
